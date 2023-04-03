@@ -1,2 +1,15 @@
-
+.holder {
+	border: 1px solid black;
+	width: 40px;
+	height: 40px;
+	display: flex;
+	padding: 10px;
+	justify-contant: center;
+	align-items: center;
+}
+.item1 {
+	display: flex;
+	justify-contant: center;
+     align-item: center;
+}
 /* Your CSS Code here. */
